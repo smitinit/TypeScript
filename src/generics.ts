@@ -56,4 +56,3 @@ console.log(fdsa.resource);
 
 const hjkl = new dfsj("smit");
 console.log(hjkl);
-console.log(hjkl);
