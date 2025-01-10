@@ -39,3 +39,4 @@ const monthlyIncomes = {
 for (const revenue in monthlyIncomes) {
     console.log(monthlyIncomes[revenue]);
 }
+console.log("my name is smit");
